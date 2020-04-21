@@ -2,3 +2,4 @@ juustoa
 maito
 leipää
 juusto
+kananmunia
